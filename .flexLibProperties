@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.flashmattic.flashmatticomponents.component.validator.pathvalidator.PathValidator"/>
+<classEntry path="com.flashmattic.flashmatticomponents.framework.wizard.IWizardStep"/>
+<classEntry path="com.flashmattic.flashmatticomponents.framework.wizard.Wizard"/>
+<classEntry path="com.flashmattic.flashmatticomponents.framework.wizard.WizardEvent"/>
+<classEntry path="com.flashmattic.flashmatticomponents.framework.wizard.WizardStep"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
