@@ -10,23 +10,16 @@ and "I don't deal with stuff I don't need or want to deal with".
 
 The project contains the following:
 
-== Components ==
+Components
  * AIR
   * [PathValidator]
 
  * Flex
  
-== Frameworks ==
+Frameworks
  * [Wizard]
 
 ----
 
-== Other ==
+Other
  * [BundlesAndLocales]
-
-----
-As in all, this project might also contain some errors within it, whether code errors or wrong documentation, broken links, etc. If you encounter such, kindly report it by adding a comments where spotted, and it will be taken care of.
-Cheers!
-
-Flashmatticomponents is a project owned by *Matti Bar-Zeev*, aka *Flashmattic*. 
-Visit [http://flashmattic.blogspot.com/ Flashmattic] blog for updates and more.
