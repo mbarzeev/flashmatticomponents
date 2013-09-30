@@ -23,3 +23,7 @@ Frameworks
 
 Other
  * [BundlesAndLocales]
+
+----
+
+For more information and details on usage - please refer to the Wiki pages.
